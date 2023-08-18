@@ -1,0 +1,27 @@
+{
+    "name":"Preside Extension: Cloudflare Turnstile",
+    "type":"preside-extensions",
+    "slug":"preside-ext-turnstile",
+    "version":"$VERSION_NUMBER",
+    "location":"$DOWNLOAD_URL",
+    "private":false,
+    "author":"Pixl8 Group",
+    "directory":"application/extensions",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/pixl8/preside-ext-turnstile"
+    },
+	"homepage": "https://github.com/pixl8/preside-ext-turnstile",
+	"documentation": "https://github.com/pixl8/preside-ext-turnstile/wiki",
+	"bugs": "https://github.com/pixl8/preside-ext-turnstile/issues",
+    "projectURL":"https://github.com/pixl8/preside-ext-turnstile",
+	"preside": {
+		"minVersion": "10.25.0"
+	},
+    "ignore":[
+        ".git/*",
+        ".gitignore",
+        ".github/*",
+        ".twgit_features_subject"
+    ]
+}

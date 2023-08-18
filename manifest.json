@@ -1,0 +1,7 @@
+{
+	  "id"        : "preside-ext-turnstile"
+	, "title"     : "Cloudflare Turnstile - ReCaptcha replacement"
+	, "author"    : "Pixl8 Group"
+	, "version"   : "$VERSION_NUMBER"
+	, "dependsOn" : []
+}
