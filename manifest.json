@@ -1,0 +1,6 @@
+{
+	"id"     : "preside-ext-turnstile",
+	"title"  : "Cloudflare's Turnstile - smart CAPTCHA alternative",
+	"author" : "Pixl8 Interactive",
+	"version": "1.0.0"
+}
