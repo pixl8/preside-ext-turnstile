@@ -15,10 +15,7 @@
 	"documentation": "https://github.com/pixl8/preside-ext-turnstile/wiki",
 	"bugs": "https://github.com/pixl8/preside-ext-turnstile/issues",
     "projectURL":"https://github.com/pixl8/preside-ext-turnstile",
-	"preside": {
-		"minVersion": "10.25.0"
-	},
-    "ignore":[
+	"ignore":[
         ".git/*",
         ".gitignore",
         ".github/*",
